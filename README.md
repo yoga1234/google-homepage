@@ -7,4 +7,4 @@
 
 From The Odin Project's [curriculum](http://www.theodinproject.com/courses/web-development-101/lessons/html-css)
 
-<a href="https://yoga1234/github.io/google-homepage" target="_blank">Visit</a>
+<a href="https://yoga1234.github.io/google-homepage" target="_blank">Visit</a>
