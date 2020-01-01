@@ -39,11 +39,11 @@ body {
   height: 25px;
 }
 .mic-icon {
-  position: absolute;
-  right: 453px;
-  top: 331px;
+  position: relative;
   width: 18px;
   height: 25px;
+  bottom: 45px;
+  left: 405px;
 }
 .button-group {
   display: flex;
